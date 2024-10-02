@@ -8,6 +8,6 @@ Usage notes:
 - the domain susanpajewski.com has been set up to point to this url
 - this blog uses CNAME to display the domain url
 
-- github requires that the website code *must* reside in github folder main/USERNAME
-- an easy way to disable this site is to rename the website folder main/USERNAME
+- github requires that the website code *must* reside in github repository USERNAME
+- an easy way to disable this website is to rename the website folder USERNAME to something else, e.g., xUSERNAME
 
